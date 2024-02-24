@@ -1,0 +1,213 @@
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.local.git.out
+
+nothing added to commit but untracked files present (use "git add" to track)
+M	shell.l
+M	shell.y
+Your branch is up to date with 'origin/master'.
+[master 58e8366] Commit
+ Committer: Wenbo Jiao <jiao28@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 289 insertions(+), 44 deletions(-)
+ rewrite shell.l (99%)
+ rewrite shell.y (99%)
+M	testall.out
+M	y.tab.cc
+M	y.tab.hh
+Your branch is up to date with 'origin/master'.
+[master 981b789] Commit
+ Committer: Wenbo Jiao <jiao28@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 249 insertions(+), 435 deletions(-)
+M	shell.y
+Your branch is up to date with 'origin/master'.
+[master 79d40a7] Commit
+ Committer: Wenbo Jiao <jiao28@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 341 insertions(+), 173 deletions(-)
+ rewrite shell.y (79%)
+M	shell.y
+M	y.tab.cc
+M	y.tab.hh
+Your branch is up to date with 'origin/master'.
+[master 8db82f9] Commit
+ Committer: Wenbo Jiao <jiao28@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 364 insertions(+), 249 deletions(-)
+M	shell.y
+M	y.tab.cc
+Your branch is up to date with 'origin/master'.
+[master b7b876a] Commit
+ Committer: Wenbo Jiao <jiao28@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 174 insertions(+), 342 deletions(-)
+ rewrite shell.y (90%)
+M	shell.l
+M	y.tab.cc
+M	y.tab.hh
+Your branch is up to date with 'origin/master'.
+[master bffd4a2] Commit
+ Committer: Wenbo Jiao <jiao28@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 365 insertions(+), 477 deletions(-)
+ rewrite shell.l (60%)
+M	lex.yy.cc
+Your branch is up to date with 'origin/master'.
+[master 093cb21] Commit
+ Committer: Wenbo Jiao <jiao28@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 114 insertions(+), 107 deletions(-)
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.local.git.out
+	Command.o
+	IfCommand.o
+	ListCommands.o
+	PipeCommand.o
+	Shell.o
+	SimpleCommand.o
+	lex.yy.o
+	shell
+	y.tab.o
+
+nothing added to commit but untracked files present (use "git add" to track)
+M	shell.l
+Your branch is up to date with 'origin/master'.
+[master bf9959d] Commit
+ Committer: Wenbo Jiao <jiao28@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 116 insertions(+), 119 deletions(-)
+ rewrite shell.l (61%)
+M	lex.yy.cc
+M	shell.l
+Your branch is up to date with 'origin/master'.
+[master decbd53] Commit
+ Committer: Wenbo Jiao <jiao28@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 133 insertions(+), 141 deletions(-)
+M	lex.yy.cc
+M	shell.l
+Your branch is up to date with 'origin/master'.
+[master 05c8a16] Commit
+ Committer: Wenbo Jiao <jiao28@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 80 insertions(+), 79 deletions(-)
